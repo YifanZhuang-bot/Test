@@ -1,2 +1,4 @@
 Hi, my name is Yifan, and I'm based in Biel, Switzerland. Since 2022, I've been working as a Project Manager at GF Machining Solutions. I have a background in mechanical engineering, with a specialization in automation. While I don't have experience in data analytics or data science yet, I do have some skills in Python and am excited to expand my knowledge in these areas.
 
+At the end of this program, my goal is to be able to analyze data from our machines. While most applications of data analytics focus on business and financial data, there’s a limited focus on machine data in the automation industry. I believe this is a missed opportunity, as we have a wealth of data that could be used to better understand machine usage, improve performance, and even predict maintenance needs. I'm eager to learn how to leverage this data to drive improvements in our systems.
+
